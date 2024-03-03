@@ -1,1 +1,1 @@
-<h1>Discord бот на Node.js</h1>
+<h1>Тестовый Discord бот на Node.js</h1>
